@@ -1,0 +1,3 @@
+name: nixostest
+runtime: go
+description: To setup and run a docker container
